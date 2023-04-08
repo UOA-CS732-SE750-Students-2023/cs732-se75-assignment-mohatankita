@@ -25,18 +25,18 @@ It is a Notes app which have two tabs, one is the home page where the notes are 
 4) Install all packages: `npm install`.
 5) Run on the web: `ionic serve`.
 6) Create the build: `ionic build`
-7) Run on Android: (https://ionicframework.com/docs/developing/android)
+7) Run on Android:
   - If capacitor is not installed, use this command to enable the capacitor: `ionic integrations enable capacitor`
   - Create the build: `ionic capacitor add android`
   - Run the build: `ionic capacitor run android`
-  - More info, See [here](https://ionicframework.com/docs/developing/android)
-  - Creating virtual device on android: See [here] (https://ionicframework.com/docs/developing/android#creating-an-android-virtual-device)
-8) Run on iOS: (https://ionicframework.com/docs/developing/ios)
+  - For more info, See [here](https://ionicframework.com/docs/developing/android)
+  - Creating virtual device on android: See [here](https://ionicframework.com/docs/developing/android#creating-an-android-virtual-device)
+8) Run on iOS:
   - If capacitor is not installed, use this command to enable the capacitor: `ionic integrations enable capacitor`
   - Create the build: `ionic capacitor add ios`
   - Run the build: `ionic capacitor run ios`
-  - See [here](https://ionicframework.com/docs/developing/android)
+  - For more info, See [here](https://ionicframework.com/docs/developing/android)
 
 ## Deployment
-> Deploying to play store, See [here] (https://ionicframework.com/docs/deployment/play-store)
-> Deploying to app store, See [here] (https://ionicframework.com/docs/deployment/app-store)
+> Deploying to play store, See [here](https://ionicframework.com/docs/deployment/play-store)
+> Deploying to app store, See [here](https://ionicframework.com/docs/deployment/app-store)
